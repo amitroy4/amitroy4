@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:amitroy98.ewu@gmail.com">📬 Email</a> • 
-  <a href="https://linkedin.com/in/amitroy98">🔗 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/amitroy4">🔗 LinkedIn</a> • 
   <a href="https://github.com/amitroy4">💻 GitHub</a> • 
   <a href="https://facebook.com/amitroy.ewu">📘 Facebook</a>
 </p>
