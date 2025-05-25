@@ -57,17 +57,15 @@ Currently pursuing my **M.Sc. in CSE** at *Jagannath University*, I enjoy turnin
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitroy4&theme=github_dark&show_icons=true&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitroy4&theme=github_dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitroy4&theme=github_dark&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitroy4&theme=github_dark&hide_border=false" width="48%" />
 </div>
 
 ---
 
 ### 🧮 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy4&layout=compact&theme=github_dark&hide_border=false" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy4&layout=compact&theme=github_dark&hide_border=false" />
 
 ---
 
@@ -79,14 +77,7 @@ Currently pursuing my **M.Sc. in CSE** at *Jagannath University*, I enjoy turnin
 ---
 
 ### 🔥 Random Dev Quote
+<div class="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🌐 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amitroy.ewu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit_roy8449)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitroy98)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:amitroy98.ewu@gmail.com)
+</div>
 
