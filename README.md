@@ -39,8 +39,7 @@ Currently pursuing my **M.Sc. in CSE** at *Jagannath University*, I enjoy turnin
 ## 🚀 Certifications
 
 - ✅ **MERN Stack Developer** – *Creative IT Institute* (2024)  
-- 🧪 **Software Testing & QA** – *Ongoing*  
-- 🌐 **EDGE Program** – *Enhancing Digital Government & Economy* (Preparing)
+- 🧪 **Software Testing & QA** – *EDGE Program (Enhancing Digital Government & Economy)* (2024)
 
 ---
 
